@@ -2,5 +2,5 @@
 Basic api with crud functions.
 
 Tools used:
-Ef core
+Ef core,
 Automapper
